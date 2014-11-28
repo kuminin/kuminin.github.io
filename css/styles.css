@@ -1,0 +1,148 @@
+body {
+	background: #3b5998;
+	/*background-image: url("pattern-aipw.png");*/
+	font-family: 'Open Sans';
+	background-repeat: no-repeat;
+	color: #646464;
+}
+
+.about.aboutme {
+	background-color: #f6f6f6;
+	width: 600px;
+	height: 200px;
+	padding: 1px 25px 1px 25px;
+	border-radius: 10px;
+}
+
+#projectTitle {
+	padding-bottom: 15px;
+	text-align: center;
+	color: #f6f6f6;
+}
+
+#title {
+	text-align: center;
+	color: #3b5998;
+	border-bottom: 1px solid #3b5998;
+}
+
+.about.aboutme .paragraphs {
+	height: 120px;
+	padding-top: 10px;
+	font-size: 13px;
+	text-align: left;
+	color: #3b5998;
+}
+
+#paragraphs {
+	padding-top: 10px;
+	font-size: 13px;
+	text-align: center;
+	color: #3b5998;
+}
+
+.resize {
+	position: relative;
+	padding-top: 20px;
+	left: -25px;
+	width: 500px;
+	height: 360px;
+}
+
+.picture {
+	background-color: #f6f6f6;
+	position: relative;
+	top: 100px;
+	width: 500px;
+	height: 500px;
+	padding: 1px 25px 1px 25px;
+	border-radius: 10px;
+}
+
+.projects {
+	background-color: #f6f6f6;
+	position: relative;
+	top: 75px;
+	width: 600px;
+	height: 200px;
+	padding: 1px 25px 1px 25px;
+	border-radius: 10px;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #3b5998;
+}
+
+.information {
+	float: right;
+	position: relative;
+	top: 75px;
+	margin: 25px 50px 50px 50px;
+	height: 500px;
+	width: 600px;
+}
+
+.pictures {
+	float: right;
+}
+
+.contain {
+	overflow: scroll;	
+	height: 142px;
+	width: 550px;
+	border-radius: 10px;
+}
+
+.card {	
+	float: left;
+	border-radius: 10px;
+	width: 100px;
+	height: 100px;
+	background-color: #f6f6f6;
+	margin: 15px 19px 15px 18px;
+	border: 1px solid #3b5998;
+}
+
+.projectTitle {
+	margin-top: 35%;
+	text-align: center;
+	font-
+}
+
+a.projectLink {
+	color: #3b5998;
+	font-size: 18px;
+}
+
+.projectImages {
+	margin-top: 25px;
+	width: 640px;
+	height: 340px;
+}
+
+.projectContainer {
+	width: 640px;
+	height: 700px;
+}
+
+.projectInformation {
+	padding: 5px 25px 25px 25px;
+	color: #f6f6f6;
+	font-size: 14px;
+	margin-top: 75px;
+	width: 640px;
+	height: 240px;
+	border-radius: 10px;
+}
+
+.float_center {
+	float: right;
+	position: relative;
+	left: -50%;
+	text-align: left;
+}
+
+.float_center > .center {
+	position: relative;
+	left: 50%;
+}
