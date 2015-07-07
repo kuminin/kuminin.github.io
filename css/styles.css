@@ -1,0 +1,122 @@
+@import url('bootstrap.min.css');
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+p.aboutMe {
+    color: #ffffff;
+    font-size: 115%;
+}
+
+h1.d3 {
+    font-size: 533%;
+}
+
+div.center {
+    text-align: center;
+}
+
+div.d3 {
+    padding-top: 3.5%;
+    padding-bottom: 6.05%;
+    color: #ffffff;
+    float: center;
+    text-align: center;
+    clear: both;
+}
+
+div.divider > div.logo {
+    border: 1px solid #f48518;
+    height: 130px;
+    width: 130px;
+}
+
+div.hawaii {
+    background: url('../images/Hawaii.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100vw;
+    height: 120vh;
+    overflow: auto;
+    padding-top: 5%;
+}
+
+
+div.projects {
+    border: 1px solid #f48518;
+    width: 400px;
+    height: 200px;
+    padding: 10px 10px 10px 0px;
+    margin-top: 20px;
+}
+
+div.projects > div.divider {
+    float: left;
+    padding: 25px;
+    border-right: 1px solid #f48518;
+    height: 180px;
+    width: 180px;
+}
+
+div.projectDescription {
+    border: 1px solid #f48518;
+    float: right;
+    height: 180px;
+    width: 200px;
+    padding: 15px 5px 15px 5px;
+}
+
+div.projectDescription > p.title {
+    font-size: 20px;
+    border-bottom: 1px solid #f48518;
+    color: #f48518;
+    text-align: center;
+}
+
+div.projectDescription > p {
+    font-size: 10px;
+    color: #f48518;
+}
+
+div.center > a {
+    color: #f48518;
+    text-decoration: underline;
+}
+
+a.learnMore:hover {
+    text-decoration: none;
+}
+
+div.jumbotron {
+    background-color: #ffffff;
+    margin: 0px;
+}
+
+div.footer {
+    width: 100%;
+    text-align: center;
+    color: #F48518;
+    height: 0px;
+}
+
+nav.navbar-default {
+    background-color: #f48518;
+    border-color: #e37407;
+}
+
+nav.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+nav.navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+nav.navbar-default .navbar-nav>li>a:visited {
+    color: #fff;
+}

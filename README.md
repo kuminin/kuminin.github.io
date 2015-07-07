@@ -1,1 +1,1 @@
-kuminin.github.io is my first webpage
+kuminin.github.io
