@@ -39,7 +39,7 @@ div.hawaii {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    width: 100%;
+    width: 100vw;
     height: 120vh;
     overflow: auto;
     padding-top: 5%;
